@@ -15,7 +15,7 @@ global.idchannel = "120363297279563825@newsletter"
 global.linkgc = 'https://chat.whatsapp.com/HO2JGN8YHr9IOf4XOSRhGe'
 
 global.packname = "𝑨𝑹𝑪𝑯 𝑴𝑫"
-global.author = "WhatsApp Bot"
+global.author = "📺|テレビ"
 
 global.anticall = false
 global.welcome = false // check config.json
