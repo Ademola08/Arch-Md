@@ -3,9 +3,9 @@
 
 require("./all/module.js")
 
-global.owner = "2347036214381" //change
+global.owner = "2349121056093" //change
 global.botname = "𝑨𝒓𝒄𝒉 𝑴𝒅 𝑨𝒊"  //change
-global.ownername = "ᴇᴅɴᴜᴛ" //change
+global.ownername = "tv_guy" //change
 global.simbol = "♘"
 global.footer = "`𝑮𝒉𝒂𝒔𝒕 𝑪𝒍𝒂𝒏 𝑮𝒓𝒆𝒚`" //Don't touch
 
@@ -15,7 +15,7 @@ global.idchannel = "120363297279563825@newsletter"
 global.linkgc = 'https://chat.whatsapp.com/HO2JGN8YHr9IOf4XOSRhGe'
 
 global.packname = "𝑨𝑹𝑪𝑯 𝑴𝑫"
-global.author = "WhatsApp Bot"
+global.author = "📺|テレビ"
 
 global.anticall = false
 global.welcome = false // check config.json
